@@ -1,0 +1,14 @@
+﻿  CellMgr.cpp
+CellMgr.cpp(195): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+main.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  15 of 270 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConwaysGameOfLive2016.vcxproj -> H:\-xX CPP PROJEKTS Xx-\GAMEs\ConwaysGameOfLive2016\Release\ConwaysGameOfLive2016.exe
+  ConwaysGameOfLive2016.vcxproj -> H:\-xX CPP PROJEKTS Xx-\GAMEs\ConwaysGameOfLive2016\Release\ConwaysGameOfLive2016.pdb (Full PDB)
